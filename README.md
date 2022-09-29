@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hmzz804
 - 👀 I’m interested in python
 - 🌱 I am a student in Grade Two of Junior High School
-- 📫 You can contact me through QQ:[HmZz]`2166908863` , and my email address is [hmzz21669@gmail.com](hmzz21669@gmail.com)
+- 📫 You can contact me through QQ:[HmZz]`2166908863` , and my email address is hmzz21669@gmail.com
 - 
 
 <!---
