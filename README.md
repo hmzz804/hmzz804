@@ -1,6 +1,6 @@
 - 👋 Hi, I’m HmZz.
-- 👀 I’m interested in python
-- 🌱 I am a student in Grade Three of Junior High School
+- 👀 My main programming language is python.
+- 🌱 I am a student in Grade Three of Junior High School.
 - 📫 You can contact me through QQ:[HmZz] 2166908863 , and my email address is hmzz21669@gmail.com
 
 
